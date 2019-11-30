@@ -1,0 +1,1 @@
+web: python server.py --port=$PORT --debug=$DEBUG
